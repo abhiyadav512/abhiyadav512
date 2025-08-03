@@ -7,7 +7,7 @@
 - 💼 Explore all my projects and work at: [**My Portfolio**](https://abhishek512.netlify.app/)
 - 💬 Ask me about: **React.js, Node.js, MongoDB, Express.js, PostgreSQL**
 - 📫 Reach me at: **abhishekcyadav9594@gmail.com**
-- 📄 [**View My Resume**](https://drive.google.com/file/d/1D8eINnaa_CPb0uV1BhPTxXPoyAlq2NHw/view?usp=drivesdk)
+- 📄 [**View My Resume**](https://drive.google.com/file/d/1FMo0KLqQ6zYXs_2BUlY7_qj6vK5KBlrc/view?usp=drivesdk)
 
 ---
 
