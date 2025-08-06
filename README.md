@@ -4,7 +4,7 @@
 ---
 
 - 🚀 Currently diving into **DevOps** to streamline development workflows and exploring **AI/ML** to drive innovation.
-- 💼 Explore all my projects and work at: [**My Portfolio**](https://abhishek512.netlify.app/)
+- 💼 Explore all my projects and work at: [**My Portfolio**](https://abhishek512.vercel.app/)
 - 💬 Ask me about: **React.js, Node.js, MongoDB, Express.js, PostgreSQL**
 - 📫 Reach me at: **abhishekcyadav9594@gmail.com**
 - 📄 [**View My Resume**](https://drive.google.com/file/d/1FMo0KLqQ6zYXs_2BUlY7_qj6vK5KBlrc/view?usp=drivesdk)
